@@ -21,7 +21,6 @@ O demo abre sem login e com dados fictícios. Nada do que você fizer é enviado
 fica no seu navegador, e o botão "Resetar demo" volta ao estado inicial.
 
 - **Demo do Dock:** [abrir o demo](https://dock-t4m-git-demo-douglas-projects-0db729d0.vercel.app/)
-  (na tela de login, clique em **Explorar demo**)
 
 Um roteiro para percorrer o produto inteiro:
 
